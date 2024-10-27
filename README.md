@@ -11,6 +11,8 @@ Duration: September 30th,2024 to October 30th,2024
 
 OVERVIEW OF THE PROJECT
 
+![Uploading Screenshot (286).png…]()
+
 PROJECT: TO-DO LIST APPLICATION WITH LOCAL STORAGE
 
 This to-do list project is a simple web application that allows users to manage tasks with full CRUD (Create, Read, Update, Delete) functionality, and it uses the browser's local storage to persist data across sessions. Here’s a high-level overview of each component and how they work together:
