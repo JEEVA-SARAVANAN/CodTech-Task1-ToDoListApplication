@@ -11,7 +11,7 @@ Duration: September 30th,2024 to October 30th,2024
 
 OVERVIEW OF THE PROJECT
 
-![Uploading Screenshot (286).png…]()
+![Screenshot (286)](https://github.com/user-attachments/assets/714b59c7-c5c7-41f2-8dea-79361601a216)
 
 PROJECT: TO-DO LIST APPLICATION WITH LOCAL STORAGE
 
